@@ -1,0 +1,20 @@
+{
+    "name": "a",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "node a.js",
+        "echo": "node a.js",
+        "prepare": "echo prepare a"
+    },
+    "dependencies": {
+        "b": "^1.0.0"
+    },
+    "workspaces": [
+        "./c",
+        "./b",
+        "./"
+    ],
+    "devDependencies": {
+        "lerna": "^4.0.0"
+    }
+}

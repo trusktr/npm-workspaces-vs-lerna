@@ -1,0 +1,14 @@
+{
+    "name": "c",
+    "version": "1.0.0",
+    "scripts":  {
+        "test": "node c.js",
+        "echo": "node c.js",
+        "prepare": "echo prepare c"
+    },
+    "dependencies": {
+        "a": "^1.0.0",
+        "b": "^1.0.0"
+    }
+}
+

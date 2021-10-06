@@ -1,0 +1,12 @@
+{
+    "name": "b",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "node b.js",
+        "echo": "node b.js",
+        "prepare": "echo prepare b"
+    },
+    "dependencies": {
+    }
+}
+
