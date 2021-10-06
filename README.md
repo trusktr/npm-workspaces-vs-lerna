@@ -1,0 +1,1 @@
+`npm install` runs prepare only in the `a` package (bug?), while `npx lerna bootstrap` runs prepare in all packages as expected.
