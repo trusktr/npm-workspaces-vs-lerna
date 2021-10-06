@@ -1,4 +1,4 @@
 {
-	"packages": ["./", "./b", "./c"],
+	"packages": ["./", "./b", "./c", "./d"],
 	"version": "independent"
 }
