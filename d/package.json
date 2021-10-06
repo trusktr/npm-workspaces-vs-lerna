@@ -1,0 +1,12 @@
+{
+    "name": "d",
+    "version": "1.0.0",
+    "scripts":  {
+        "test": "node d.js",
+        "echo": "node d.js",
+        "prepare": "echo prepare d"
+    },
+    "dependencies": {
+    }
+}
+
